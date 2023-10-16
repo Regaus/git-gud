@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
 
-print("Hello Brickie!")
+print("Hello NixOS User!")
